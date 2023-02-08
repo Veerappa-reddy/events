@@ -1,0 +1,24 @@
+.event-container {
+  display: flex;
+  flex-direction: column;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  margin: 15px;
+}
+.event-image {
+  width: 230px;
+}
+.location {
+  font-size: 12px;
+}
+.name {
+  font-size: 15px;
+  padding-top: 5px;
+}
+.img-border {
+  border: 2px solid #2dd4bf;
+}
+.li-btn {
+  background-color: transparent;
+  border: none;
+}

@@ -1,0 +1,29 @@
+.bg-container {
+  display: flex;
+}
+
+.events-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #64748b;
+  width: 70%;
+  padding: 40px;
+  height: 100vh;
+  /* margin-top: 30px; */
+}
+.events-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #fff;
+  font-family: 'Roboto';
+  margin-top: 40px;
+  padding-left: 15px;
+}
+.un-order-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.active-details-container {
+  width: 33%;
+}
